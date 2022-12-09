@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="siteUrl">http://54.180.174.214:7711/api/test/follow/user</string>
+</resources>
